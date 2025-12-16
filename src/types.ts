@@ -61,3 +61,5 @@ export interface LynkContextState {
     /** The current session signature (if any) */
     sessionSignature: string | null;
 }
+
+// Exported for consumers

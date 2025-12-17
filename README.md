@@ -132,3 +132,4 @@ LYNK implements a specialized State Machine for connection management:
 
 Copyright © 2026 LYNK Labs.
 Licensed under the **MIT License**.
+

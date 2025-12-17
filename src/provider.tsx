@@ -139,3 +139,5 @@ const LynkInner = ({ children, config, wallets }: InnerProps) => {
         </LynkContext.Provider>
     );
 };
+
+// Optimized effect dependencies

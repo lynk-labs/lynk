@@ -1,6 +1,6 @@
 {
   "name": "@lynk-protocol/react",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "The Unbreakable Wallet Adapter for Solana",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
